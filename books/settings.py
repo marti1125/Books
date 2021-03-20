@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     # Local
     'accounts',
     'pages',
+    'book',
 ]
 
 # django-allauth config
